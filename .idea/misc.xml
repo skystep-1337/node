@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="rl(https://fonts.googleapis.com/css2?family=Suez+One&amp;display=swap);" location="$PROJECT_DIR$" />
+    <resource url="url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,700&amp;family=Suez+One&amp;display=swap);" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (node)" project-jdk-type="Python SDK" />
+</project>
